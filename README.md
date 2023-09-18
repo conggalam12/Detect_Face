@@ -1,4 +1,4 @@
-# Yolov7_detect_car
-Using yolo v7 detect car
+# Yolov7_detect_face
+Using yolo v7 detect face
 # Example 
-![detect](https://github.com/conggalam12/Yolov7_detect_car/blob/main/exp5/4.jpeg)
+
