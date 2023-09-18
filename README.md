@@ -26,5 +26,5 @@ python detect.py --source [path_image] --weights [path to weight] --project [pat
 # Example 
 ![detect](https://github.com/conggalam12/Yolo-v7/blob/main/runs/detect/exp2/giadinh.jpg)
 
-
+![detect](https://github.com/conggalam12/Yolo-v7/blob/main/runs/detect/exp3/123123.jpg)
 
